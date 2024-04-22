@@ -1,0 +1,74 @@
+h1 {
+    display: block;
+    width:700px;
+    margin-left:auto;
+    margin-right: auto;
+    color: #121212;
+    text-align: center;
+}
+
+img {
+    display: block;
+    width: 380px;
+    height: 230px;
+    margin-left: auto;
+    margin-right: auto;
+    border: 3px solid #121212;
+}
+
+p {
+    display: block;
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    font-style: italic;
+    font-size: small;
+    text-align: center;
+    text-justify: distribute;
+    color: #121212;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    font-weight: bold;
+}
+
+button {
+    width: 200px;
+    margin-top: 10px;
+    color: white;
+    background: #121212;
+    border: 3px solid #121212;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-weight: bold;
+}
+
+.terms {
+    font-style: italic;
+    color: #121212;
+    font-weight: bold;
+}
+
+input {
+    display: block;
+    width: 192px;
+    margin-left: auto;
+    margin-right: auto;
+    border: 3px solid #121212;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-left: 5px;
+    padding-right: 5px;
+
+    text-align: center;
+    font-weight: bold; 
+    font-size: small
+}
+
+button {
+    display: block;
+    width: 205px;
+    margin-left: auto;
+    margin-right: auto;
+    border: 3px solid #121212;
+
+}
